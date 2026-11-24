@@ -78,7 +78,7 @@ Intégrer la **Landing Page eSIM** à partir de la maquette Figma et du design s
 
 ## Livraison
 
-N'hésitez pas à forker ce dépôt et à le pousser sur un GitHub public, puis à nous en partager le lien.
+N’hésitez pas à forker ce dépôt en privé, puis à m’ajouter comme collaborateur.
 
 N'hésitez pas si vous avez la moindre question.
 
